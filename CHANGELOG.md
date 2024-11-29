@@ -1,5 +1,12 @@
 # Changelog
 
+## [20.56.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.56.0...v20.56.1) (2024-11-29)
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZ3000_9r5jaajv` as Tuya TS0215A_sos ([#8397](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8397)) ([6fd1c15](https://github.com/Koenkk/zigbee-herdsman-converters/commit/6fd1c15f98fdc454392603abfac155f17bfc2af5))
+
 ## [20.56.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v20.55.0...v20.56.0) (2024-11-28)
 
 
